@@ -1,3 +1,4 @@
+#This code is originally from youtube but it was bugged, so i fixed it!
 from discord import Intents
 from discord.ext import commands
 import asyncio
